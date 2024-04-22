@@ -1,0 +1,21 @@
+{
+  "company_id": 10,
+  "company_name": "Company-one",
+  "employees": [
+    {
+      "first_name": "Tom",
+      "last_name": "T",
+      "phone": 785645378
+    },
+    {
+      "first_name": "Scott",
+      "last_name": "S",
+      "phone": 6656453554
+    },
+    {
+      "first_name": "Miller",
+      "last_name": "M",
+      "phone": 885645342
+    }
+  ]
+}
